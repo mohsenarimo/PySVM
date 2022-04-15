@@ -1,0 +1,2 @@
+Prefix plugins/PySVM/example/
+Plugin PySVM inputfile Iris.csv outputfile output.csv
